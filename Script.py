@@ -7,7 +7,7 @@ class script(object):
 
 🚀 𝖠𝗇𝖽 𝗂’𝗅𝗅 𝗍𝖺𝗄𝖾 𝗂𝗍 𝖿𝗋𝗈𝗆 𝗍𝗁𝖾𝗋𝖾!
 
-<blockquote>©️ Maintained by <a href="https://t.me/im_goutham_josh">@im_goutham_josh</a></blockquote>"""
+<blockquote>©️ Maintained by <a href="https://t.me/im_goutham_josh">Sa</a></blockquote>"""
 
     HELP_TXT = """
 🙋🏻‍♂️ Hᴇʟʟᴏ {}! 🤓
@@ -27,9 +27,9 @@ class script(object):
 ⚠️ Pʟᴇᴀsᴇ ᴅᴏɴ’ᴛ sᴘᴀᴍ ᴛʜᴇ ʙᴏᴛ. 🙂
 """
     ABOUT_TXT = """<b>
-<blockquote>🤖 Nᴀᴍᴇ: ᴋᴜᴛᴛᴜ ʙᴏᴛ™</blockquote>
+<blockquote>🤖 Nᴀᴍᴇ: Rᴀꜱʜᴍɪᴋᴀ Mᴀɴᴅᴀɴɴᴀ™</blockquote>
 
-👨‍💻 Cʀᴇᴀᴛᴏʀ: <a href="https://t.me/im_goutham_josh">Goutham SER</a>  
+👨‍💻 Cʀᴇᴀᴛᴏʀ: <a href="https://t.me/Sandalwood_Man">Goutham SER</a>  
 💬 Lᴀɴɢᴜᴀɢᴇ: Pʏᴛʜᴏɴ 3  
 🗄️ Dᴀᴛᴀʙᴀsᴇ: Mᴏɴɢᴏ DB  
 🌐 Sᴇʀᴠᴇʀ: KᴏYᴇʙ
